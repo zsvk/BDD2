@@ -8,3 +8,4 @@ Feature: Test OrangeHRM application
     And user enter valid password
     Then user click on submit button
    And browser will close
+   And user post massage

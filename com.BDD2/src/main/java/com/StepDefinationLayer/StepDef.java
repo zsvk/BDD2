@@ -48,5 +48,9 @@ public class StepDef
 	  
 	driver.close();
 	}
+	@Then("user post massage")
+	public void user_post_massage() {
+	 System.out.println("The code is completed successfully");
+	}
 
 }
